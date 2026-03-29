@@ -106,6 +106,7 @@ feishu-lark-mastery/
 
 ---
 
+
 ## 🙏 鸣谢
 
 ### 官方资源
@@ -115,7 +116,6 @@ feishu-lark-mastery/
 - **飞书开放平台** - https://open.feishu.cn/
 - **Lark Developer** - https://developers.larksuite.com/
 - **飞书 API 文档** - 所有官方 API 文档
-- **飞书帮助中心** - 使用指南和最佳实践
 
 ### 社区贡献
 
@@ -124,60 +124,22 @@ feishu-lark-mastery/
 - **OpenClaw** - https://github.com/openclaw/openclaw
   - 提供了技能开发框架和工具支持
   - OpenClaw 文档：https://docs.openclaw.ai
-  - 技能规范参考：OpenClaw Skills Specification
 
-- **飞书开放平台社区** - 问题解答和经验分享
+### 社区教程
+
+本技能引用了以下社区教程，详见 [CONTRIBUTORS.md](CONTRIBUTORS.md)：
+
+- **王大仙** - 多维表格插件入门到 2048
+- **李祥瑞** - 多维表格批量 OCR 插件
 
 ### 经验知识
 
-本技能中的经验知识（`experience/` 目录）来自：
+本技能中的经验知识来自：
 - 实际项目中的踩坑总结
 - 社区用户的问题反馈
-- 持续迭代的优化建议
 
-**贡献经验**：欢迎通过 Issue 或 PR 分享您的使用经验！
-
----
-
-## 🤝 贡献
-
-欢迎贡献！详见 [CONTRIBUTING.md](CONTRIBUTING.md)
-
-### 贡献方式
-1. Fork 本项目
-2. 创建功能分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 开启 Pull Request
-
-### 贡献内容
-- 📚 官方文档同步更新
-- 💡 经验知识分享
-- 🐛 Bug 修复
-- ✨ 新功能建议
+**完整贡献者名单**：详见 [CONTRIBUTORS.md](CONTRIBUTORS.md)
 
 ---
 
-## 📄 许可证
-
-MIT License - 详见 [LICENSE](LICENSE)
-
----
-
-## 👤 作者
-
-**田野 (Tian Ye)** (@dundunbaba)
-
----
-
-## 🔗 相关链接
-
-- [飞书开放平台](https://open.feishu.cn/)
-- [Lark Developer](https://developers.larksuite.com/)
-- [OpenClaw 文档](https://docs.openclaw.ai)
-- [ClawHub 技能市场](https://clawhub.com)
-- [GitHub 仓库](https://github.com/dundunbaba/feishu-lark-mastery)
-
----
-
-**🌟 如果这个项目对你有帮助，请给一个 Star！**
+## 🤝 如何贡献
