@@ -25,26 +25,22 @@
 
 ### 社区教程
 
-本技能参考了以下飞书社区教程（按 INDEX.md 记录）：
+本技能参考了以下飞书社区教程：
 
-| 教程标题 | 链接 | 使用场景 |
-|----------|------|----------|
-| 多维表格插件入门到 2048 | [链接](https://open.feishu.cn/community/articles/7298180622756659203) | 插件开发参考 |
-| 多维表格批量 OCR 插件 | [链接](https://open.feishu.cn/community/articles/7283549676366938116) | OCR 功能参考 |
-| 多维表格轻便地图插件 | [链接](https://open.feishu.cn/community/articles/7297874512905224196) | 地图功能参考 |
-
-**注**：以上教程来自飞书开放平台社区，作者信息不详，特此鸣谢社区贡献者！
+| 教程标题 | 作者 | 链接 | 使用场景 |
+|----------|------|------|----------|
+| 多维表格插件入门到 2048 | **孝夕夕** | [链接](https://open.feishu.cn/community/articles/7298180622756659203) | 插件开发参考 |
+| 多维表格批量 OCR 插件 | 社区贡献者 | [链接](https://open.feishu.cn/community/articles/7283549676366938116) | OCR 功能参考 |
+| 多维表格轻便地图插件 | 社区贡献者 | [链接](https://open.feishu.cn/community/articles/7297874512905224196) | 地图功能参考 |
 
 ### 第三方教程
 
 本技能参考了以下第三方教程：
 
-| 资源 | 链接 | 使用场景 |
-|------|------|----------|
-| 第三方讲师 A 课程合集 (13 篇) | [链接](https://vantasma.feishu.cn/wiki/RXjcwGsKsijxVskRb35caB4enng) | 学习资源 |
-| 第三方讲师 B 学习手册 (38 篇) | [链接](https://vantasma.feishu.cn/wiki/N8wRwvIXUiR2mjkAjuvccK4xnle) | 学习资源 |
-
-**注**：以上教程来自第三方讲师，具体作者信息不详，特此鸣谢！
+| 资源 | 作者 | 链接 | 使用场景 |
+|------|------|------|----------|
+| 大仙课合集 \| 跟着王大仙，做飞书多维表格高手 | **王大仙（李天琪）** | [链接](https://larkcommunity.feishu.cn/wiki/RXjcwGskUjVkRb35caB4ennq) | 多维表格系统学习 |
+| 第三方讲师 B 学习手册 (38 篇) | 待确认 | [链接](https://vantasma.feishu.cn/wiki/N8wRwvIXUiR2mjkAjuvccK4xnle) | 学习资源 |
 
 ### 开源项目
 
