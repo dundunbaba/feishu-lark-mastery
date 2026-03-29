@@ -1,0 +1,25 @@
+{
+  "messaging": {
+    "send_card": 2,
+    "send_message": 0,
+    "last_failure": {
+      "time": "2026-03-26T14:14:47+08:00",
+      "error": "JSON 转义错误"
+    }
+  },
+  "bitable": {
+    "read_record": 0,
+    "write_record": 0,
+    "last_failure": null
+  },
+  "doc": {
+    "read": 0,
+    "write": 0,
+    "last_failure": null
+  },
+  "global": {
+    "consecutive_failures": 2,
+    "last_failure_time": "2026-03-26T14:14:47+08:00",
+    "clarification_triggered": true
+  }
+}
