@@ -29,9 +29,9 @@
 
 | 教程标题 | 作者 | 链接 | 使用场景 |
 |----------|------|------|----------|
-| 多维表格插件入门到 2048 | **孝夕夕** | [链接](https://open.feishu.cn/community/articles/7298180622756659203) | 插件开发参考 |
+| 多维表格插件入门到 2048 | 待确认 | [链接](https://open.feishu.cn/community/articles/7298180622756659203) | 插件开发参考 |
 | 多维表格批量文字识别插件 | **小黄鸭** | [链接](https://open.feishu.cn/community/articles/7283549676366938116) | OCR 功能参考 |
-| 利用多维表格插件制作「轻便地图」 | 待确认 | [链接](https://open.feishu.cn/community/articles/7297874512905224196) | 地图功能参考 |
+| 利用多维表格插件制作「轻便地图」 | **孝夕夕** | [链接](https://open.feishu.cn/community/articles/7297874512905224196) | 地图功能参考 |
 
 ### 第三方教程
 
@@ -40,7 +40,7 @@
 | 资源 | 作者 | 链接 | 使用场景 |
 |------|------|------|----------|
 | 大仙课合集 \| 跟着王大仙，做飞书多维表格高手 | **王大仙（李天琪）** | [链接](https://larkcommunity.feishu.cn/wiki/RXjcwGskUjVkRb35caB4ennq) | 多维表格系统学习 |
-| 第三方讲师 B 学习手册 (38 篇) | 待确认 | [链接](https://vantasma.feishu.cn/wiki/N8wRwvIXUiR2mjkAjuvccK4xnle) | 学习资源 |
+| 多维表格学习手册 (38 篇) | **李祥瑞** | [链接](https://vantasma.feishu.cn/wiki/N8wRwvIXUiR2mjkAjuvccK4xnle) | 学习资源 |
 
 ### 开源项目
 
