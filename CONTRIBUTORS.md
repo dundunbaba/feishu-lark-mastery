@@ -39,7 +39,7 @@
 
 | 资源 | 作者 | 链接 | 使用场景 |
 |------|------|------|----------|
-| 大仙课合集 \| 跟着王大仙，做飞书多维表格高手 | **王大仙（李天琪）** | [链接](https://larkcommunity.feishu.cn/wiki/RXjcwGsKsijxVskRb35caB4enng) | 多维表格系统学习 |
+| 大仙课合集 \| 跟着王大仙，做飞书多维表格高手 | **王大仙（李天琪）** | **链接待确认** | 多维表格系统学习 |
 | 多维表格学习手册 (38 篇) | **李祥瑞** | [链接](https://vantasma.feishu.cn/wiki/N8wRwvIXUiR2mjkAjuvccK4xnle) | 学习资源 |
 
 ### 开源项目
